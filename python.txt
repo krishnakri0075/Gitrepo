@@ -1,0 +1,2 @@
+python is interpreted programiming language
+#It execute line by line
